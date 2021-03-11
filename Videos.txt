@@ -1,0 +1,8 @@
+Video
+https://www.youtube.com/playlist?list=PLPl81lqbj-4IEnmCXEJeEXPepr8gWtsl6
+
+SEGURIDAD
+https://www.youtube.com/watch?v=SDnyMwxuv6E&list=PLPl81lqbj-4IEnmCXEJeEXPepr8gWtsl6&index=20&t=1910s&ab_channel=Bluuweb%21
+
+Teoria
+https://github.com/bluuweb/curso-node-youtube/tree/crud-mongo
